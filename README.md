@@ -62,7 +62,7 @@ git clone https://github.com/niltbeyhan34/personal-budget-tracker
 2. Open the project directory.
 
 ```bash
-cd personal-budget-tracker-cpp
+cd personal-budget-tracker
 ```
 
 3. Compile the project.
@@ -113,5 +113,3 @@ g++ main.cpp -o budget_tracker
 **Nil Tuana Beyhan**
 
 Software Engineering Student
-
-GitHub: https://github.com/niltbeyhan34
