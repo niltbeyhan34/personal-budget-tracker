@@ -56,7 +56,7 @@ PersonalBudgetTracker/
 1. Clone the repository.
 
 ```bash
-git clone https://github.com/niltbeyhan34/personal-budget-tracker-.git
+git clone https://github.com/niltbeyhan34/personal-budget-tracker
 ```
 
 2. Open the project directory.
